@@ -1,5 +1,8 @@
 # django-project
-## Install environment
+
+---
+
+## Installation Guide
 
     python3
 Virtual environment
